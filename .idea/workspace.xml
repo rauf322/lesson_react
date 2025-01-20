@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7354bd3-7233-41ec-bd22-f1dd5146176b" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage/AboutPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage/AboutPage.async.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage.async.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +113,7 @@
       <workItem from="1737129921615" duration="144000" />
       <workItem from="1737133685026" duration="599000" />
       <workItem from="1737160948054" duration="4579000" />
-      <workItem from="1737337691107" duration="1242000" />
+      <workItem from="1737337691107" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <option name="closed" value="true" />
