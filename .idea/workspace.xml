@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7354bd3-7233-41ec-bd22-f1dd5146176b" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/styles/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/themes/dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/themes/normal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/ThemeContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/ThemeProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/useTheme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/variables/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables/global.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,7 @@
       <workItem from="1737160948054" duration="4579000" />
       <workItem from="1737337691107" duration="4581000" />
       <workItem from="1737457927026" duration="19000" />
-      <workItem from="1737457964428" duration="970000" />
+      <workItem from="1737457964428" duration="4843000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <option name="closed" value="true" />
