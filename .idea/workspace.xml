@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7354bd3-7233-41ec-bd22-f1dd5146176b" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/theme/ThemeContext.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/ThemeProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/useTheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helper/classNames/classNames.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/variables/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables/global.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +19,8 @@
         <option value="tsconfig.json" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -56,31 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Node.js.buildPlugins.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.buildWebpackConfig.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.bundle.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.webpack.config.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/rauffaizov/Work/programming/js/react_lessons&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/rauffaizov/Work/programming/js/react_lessons/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.buildPlugins.ts.executor": "Run",
+    "Node.js.buildWebpackConfig.ts.executor": "Run",
+    "Node.js.bundle.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.index.ts.executor": "Run",
+    "Node.js.test.js.executor": "Run",
+    "Node.js.webpack.config.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/rauffaizov/Work/programming/js/react_lessons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "ts.external.directory.path": "/Users/rauffaizov/Work/programming/js/react_lessons/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/styles" />
@@ -121,7 +115,9 @@
       <workItem from="1737160948054" duration="4579000" />
       <workItem from="1737337691107" duration="4581000" />
       <workItem from="1737457927026" duration="19000" />
-      <workItem from="1737457964428" duration="4843000" />
+      <workItem from="1737457964428" duration="5205000" />
+      <workItem from="1737515864479" duration="665000" />
+      <workItem from="1737522407700" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <option name="closed" value="true" />
